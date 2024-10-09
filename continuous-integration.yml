@@ -4,11 +4,7 @@ trigger:
 pr: none
 
 resources:
-  repositories:
-    - repository: almtemplates
-      type: git
-      name: MyFirstProject/devops_pipelines
- 
+  repositories: 
     - repository: Catalog
       type: git
       name: MyFirstProject/Template
