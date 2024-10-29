@@ -7,7 +7,7 @@ resources:
   repositories: 
     - repository: Catalog
       type: git
-      name: MyFirstProject/Template2
+      name: MyFirstProject/Template
 
 
 pool: my-pc
